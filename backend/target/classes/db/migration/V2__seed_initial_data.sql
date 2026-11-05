@@ -1,0 +1,5 @@
+-- V2: Insercion de datos iniciales para el portafolio
+INSERT INTO experiences (role, company, period, location, description) VALUES 
+('Jefe Administrativo "C"', 'ADIP', 'Oct 2025 - Oct 2026', 'CDMX', 'Implementación de ajustes y correcciones a diferentes proyectos (LLAVE, SUAC311, SIAPEM). Análisis y resolución de errores en pantallas de ambiente Develop. Versionado y control de cambios con GitLab.'),
+('Desarrollador Java', 'MTI CONSULTORÍA', 'Mar 2023 - Sept 2025', 'Querétaro', 'Migración de servicios del sistema administrativo estatal SIAFE (REGER V3). Creación y consumo de microservicios REST.'),
+('Desarrollador Java', 'GRUPO SALINAS - BANCO AZTECA', 'Jun 2022 - Ene 2023', 'CDMX', 'Participación en proyectos bancarios (Core Captación). Migración de servicios bancarios, incluyendo refactorización de APIs.');
